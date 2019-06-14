@@ -7,9 +7,9 @@
 </template>
 
 <script>
-import indexHeader from '../components/indexHeader'
-import winningMsg from '../components/winningMsg'
-import volume from '../components/volume'
+import indexHeader from '@/components/indexHeader'
+import winningMsg from '@/components/winningMsg'
+import volume from '@/components/volume'
 export default {
   name: 'index',
   data() {
